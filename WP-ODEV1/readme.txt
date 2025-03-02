@@ -9,7 +9,7 @@ Projenin amacı: Simulasyon oyunları hakkında bilgi edinmek isteyen oyuncular 
 
 Hedef: Simulasyon oyunları incelemelerini tek bir noktada toplayarak kullanıcının seçimlerinde yardımcı olmak.
 
-Kullanılan HTML hedefleri:
+Kullanılan HTML etiketleri:
     <h1> <h2> ve <h3>
     <p< etiketi ve içerisinde <i> <b> <strong> gibi etiketler.
     <hr> ve <br> etiketleri
