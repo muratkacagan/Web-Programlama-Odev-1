@@ -1,7 +1,7 @@
 
 412905 - Murat KAÇAĞAN
 
-
+Projenin anasayfası index.html'dir. Diğer iki sayfaya bu sayfa üzerindeki bağlantılardan ulaşılır.
 
 Simulasyon oyunları inceleme projesi.
 
